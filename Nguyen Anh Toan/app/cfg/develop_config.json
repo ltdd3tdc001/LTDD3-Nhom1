@@ -1,0 +1,27 @@
+{
+    "node_fetch": false,
+    "language_map": {
+        "zh": {
+            "auto": "Auto-Detect",
+            "zh": "Vietnamese",
+            "en": "English",
+            "ja": "Japanese",
+            "fr": "French"
+        },
+        "en": {
+            "auto": "Auto-Detect",
+            "zh": "Vietnamese",
+            "en": "English",
+            "ja": "Japanese",
+            "fr": "French"
+        }
+    },
+    "engine_map": {
+        "zh": {
+            "google": "Google"
+        },
+        "en": {
+            "google": "Google"
+        }
+    }
+}
